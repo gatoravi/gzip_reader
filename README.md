@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gatoravi/gzip_reader.svg?branch=master)](https://travis-ci.org/gatoravi/gzip_reader)
+
 ##gzip_reader
 An example of [gzstream](http://www.cs.unc.edu/Research/compgeom/gzstream/)
 to read a gzipped file in C++
